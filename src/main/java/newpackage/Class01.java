@@ -8,6 +8,9 @@ public class Class01 {
 
         int y=5;
 
+        int t = x*y;
+
+
 
     }
 }
