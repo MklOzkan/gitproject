@@ -10,6 +10,8 @@ public class Class01 {
 
         int t = x*y;
 
+        System.out.println(t);
+
 
 
     }
