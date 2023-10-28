@@ -6,5 +6,8 @@ public class Class01 {
 
         int x = 3;
 
+        int y=5;
+
+
     }
 }
